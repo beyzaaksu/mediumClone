@@ -1,0 +1,19 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color:#FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom:1px solid #414141
+}
+
+.border-bottom-notDark{
+    border-bottom:1px solid #c3c1c1
+}
+
+.bookmark-placement{
+    margin-left: 200px;
+}
